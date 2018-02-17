@@ -8,7 +8,7 @@ module.exports = {
   // The bot app's client ID:
   clientId: '414263121272766465',
   // Commands should be preceded by this string:
-  prefix: '/',
+  prefix: '@mention',
   // Moment.js date format to use:
   dateFormat: 'YY-MM-DD HH:mm',
 };
